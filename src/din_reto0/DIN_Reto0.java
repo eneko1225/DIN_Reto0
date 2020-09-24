@@ -23,6 +23,8 @@ public class DIN_Reto0 extends Application {
     public void start(Stage primaryStage) {
         Button btn = new Button();
         btn.setText("Say 'Hello World'");
+        
+        System.out.println("din_reto0.DIN_Reto0.start()");
         btn.setOnAction(new EventHandler<ActionEvent>() {
             
             @Override
