@@ -24,7 +24,7 @@ public class DIN_Reto0 extends Application {
         Button btn = new Button();
         btn.setText("Say 'Hello World'");
         
-        System.out.println("din_reto0.DIN_Reto0.start()");
+        System.out.println("Voy a probar mi rama dev");
         btn.setOnAction(new EventHandler<ActionEvent>() {
             
             @Override
